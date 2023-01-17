@@ -18,7 +18,7 @@ public class Main {
         Product p = new Product();
         p.Product(2,3);
         p.Product(2,3,4);
-       p.Product(4,3);
+       p.Product(4.08,3.76);
 
 
     }
